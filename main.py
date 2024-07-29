@@ -25,6 +25,7 @@ while True:
             print("Opción no válida. Por favor, ingrese un número entre 1 y 5.")
     
     except Exception as e:
+        
         print(f"Se ha producido un error: {e}")
         print("HOLA MUNDO..")
         

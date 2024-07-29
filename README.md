@@ -1,9 +1,13 @@
 #  Aplicacion para consultar Cuidades 🌎
 
+Este programa permite al ususario buscar agrgar mostrar y ediat cuidades ingresadas.
+
+## Descripcion🚀
 Este programa permite al usuario realizar varias operaciones relacionadas con la gestión de ciudades. Ofrece opciones para crear, editar, mostrar y buscar ciudades, así como para salir del programa. La interfaz es interactiva y basada en texto.
 
 
-##  Ejemplo de Uso 🚀
+
+## Funcionalidades 🛠️
 
 Al princio encontrara el inicio de seccion
 

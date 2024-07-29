@@ -1,0 +1,10 @@
+{
+    "ciudades": {
+        "105": {
+            "Nombre": "Medellin",
+            "Pais": "Colombia",
+            "Poblacion": 45000,
+            "Codigo posatal": 105
+        }
+    }
+}

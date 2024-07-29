@@ -2,6 +2,17 @@
 
 Este programa permite al ususario buscar agrgar mostrar y editar cuidades ingresadas.
 
+
+## Tabla de contenido
+| Indice | Título  |
+|--|--|
+| 1. | [Descripción](#Descripcion) |
+| 2. | [Funcionalidades](#Funcionalidades) |
+| 4. | [Tecnologías Utilizadas](#Tenologia_Usada) |
+| 5. | [Autores](#Autores) |
+
+
+
 ## Descripcion🚀
 Este programa permite al usuario realizar varias operaciones relacionadas con la gestión de ciudades. Ofrece opciones para crear, editar, mostrar y buscar ciudades, así como para salir del programa. La interfaz es interactiva y basada en texto.
 
@@ -35,7 +46,8 @@ En esta opcion el ususario puede buscar una opcion en especifico
 
 
 
-
+## Tenologia Usada 📱
+- **Python** 🐍: Todo el programa esta echo con Python.
 
 
 ## Autores👤

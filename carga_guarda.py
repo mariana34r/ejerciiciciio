@@ -1,14 +1,14 @@
 import json
-ruta = "rutas_grupo.json"
+ruta = "ciudades.json"
 
-def guarda_rutas(datos):
+def guarda_city(datos):
         with open(ruta, "w") as file:
             json.dump(datos,file, indent=4)
         print("Datos guardados exitosamente!!")
         print("**************************************************")
 
 
-def cargar_rutas():
+def cargar_city():
     try:
         with open(ruta, "r") as leer:
             datos=json.load(leer)

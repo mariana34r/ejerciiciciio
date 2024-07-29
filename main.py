@@ -26,6 +26,7 @@ while True:
     
     except Exception as e:
         print(f"Se ha producido un error: {e}")
+        print("HOLA MUNDO..")
         
         
         
